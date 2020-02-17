@@ -1,0 +1,15 @@
+ul {
+	display: flex;
+}
+
+li {
+	margin: 15px;
+	justify-content: space-between;}
+
+
+.post-div {
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 10px 30px;
+	margin-top: 10px;
+}
